@@ -68,7 +68,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text('Object Detection')),
+      appBar: AppBar(title: const Text('ChorDefine')),
       body: Column(
         children: [
           Padding(padding:
